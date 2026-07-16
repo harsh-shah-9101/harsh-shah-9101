@@ -59,17 +59,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=harsh-shah-9101&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-![](https://streak-stats.demolab.com/?user=harsh-shah-9101&theme=dark&hide_border=true)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harsh-shah-9101&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-
-[![](https://komarev.com/ghpvc/?username=harsh-shah-9101&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- GitHub Profile README -->
